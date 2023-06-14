@@ -5,7 +5,7 @@
   
 - 🔭 Currently focused on [TwitchSimplified](https://github.com/Vescik/better_twitch_tv)
 
-- 🍔 I’m also developing scraper node.js service [CrispyScrap](https://github.com/Vescik/scrapper_service)
+- 🍔 I’m also developing  node.js scraper service [CrispyScrap](https://github.com/Vescik/scrapper_service)
 
 - 🤝 Here I'm working on my side project which will be useing CrispyScrap(work in progress now you find here some legacy spaghetti code) [Makdolan](https://github.com/Vescik/makdolan)
 
