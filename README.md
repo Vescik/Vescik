@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Vue.js,TypeScript, Node.js, MongoDB**
   
 - 🔭 Currently focused on [TwitchSimplified](https://github.com/Vescik/better_twitch_tv)
-- 🔭 Here I'm developing service for my engineering degree [CardNano Admin Panel](https://github.com/Vescik/cardnano)
+- 🔭 Here I'm developing service for my engineering degree [CardNano Admin Panel](https://github.com/Vescik/cardnano_mod)
 
 - 🍔 I’m also developing  node.js scraper service [CrispyScrap](https://github.com/Vescik/scrapper_service)
 
