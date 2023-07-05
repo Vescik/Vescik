@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Dominik</h1>
 <h3 align="center">VueJs enjoyer</h3>
 
-- 🌱 I’m currently learning **Vue.js,TypeScript, Node.js, MongoDB**
+- 🌱 I’m currently learning **Vue.js,TypeScript, Node.js**
   
 - 🔭 Currently focused on [TwitchSimplified](https://github.com/Vescik/better_twitch_tv)
 - 🔭 Here I'm developing service for my engineering degree [CardNano Admin Panel](https://github.com/Vescik/cardnano_mod)
